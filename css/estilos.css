@@ -31,9 +31,14 @@ div #background-perfil img {
     z-index: 1;
 }
 
-.btn-edit{
+#boton-descripcion{
     position: relative;
     right: -70rem;
+}
+
+#boton-personal{
+    position: relative;
+    top: -8rem;
 }
 
 .contenedor-di{
@@ -53,14 +58,14 @@ div #background-perfil img {
 .contenedor-dp{
     width: 100%;
     position: relative;
-    top: -8rem;
+    top: -10rem;
 }
 
 .info-actual{
     display: flex;
     justify-content: center;
     position: relative;
-    bottom: 5rem;
+    bottom: 7rem;
 }
 
 #estudio-uni img, #trabajo-actual img{
@@ -89,6 +94,6 @@ div #background-perfil img {
     border-radius: 10px;
     border-color: rgb(201, 47, 170);
     position: relative;
-    top: -21rem;
+    top: -22rem;
     left: 66rem;
 }
