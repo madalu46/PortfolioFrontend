@@ -95,5 +95,12 @@ div #background-perfil img {
     border-color: rgb(201, 47, 170);
     position: relative;
     top: -22rem;
-    left: 66rem;
+    left: 68rem;
+}
+
+#card-segunda {
+    border-radius: 32px;
+    margin: 20px 20px;
+    padding: 10px 10px 0px;
+    border-color: rgb(201, 47, 170);
 }
