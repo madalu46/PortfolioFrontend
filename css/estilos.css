@@ -1,4 +1,4 @@
-#card-primera {
+#card-primera, #card-habilidades {
     border-radius: 32px;
     margin: 20px 20px;
     padding: 10px 10px 0px;
@@ -97,3 +97,11 @@ div #background-perfil img {
     top: -22rem;
     left: 68rem;
 }
+
+.card-experiencia-educacion, .accordion-item{
+    display:flex;
+    margin: 20px 20px;
+    padding: 10px 10px 0px;
+    border-color: rgb(201, 47, 170);
+}
+
